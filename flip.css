@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+
+}
+input{
+    height: 25px;
+    width: 350px;
+}
+.icons .menu{
+    display: flex;
+    align-items: center;
+    float: left;
+    gap: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+.menu{
+    padding-left: 40px;
+}
+.main{
+    background-color: rgb(211, 209, 209);
+    height: 110px;
+    width: 100%;
+    padding-top: 30px;
+    
+    
+}
+.minu{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+    margin: 0px 20px 0px;
+    
+    
+}
+.minute{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.mains{
+    background-color: rgb(211, 209, 209);
+    height: 250px;
+    width: 100%;
+    padding: 20px 0px 0px;
+    
+
+}
+.slider{
+    margin: 0px 20px 0px;
+     
+}
+h4 {
+    padding-bottom: 20px;
+}
+.top{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.tops{
+    display: flex;
+    justify-content: space-between;
+}
+    
+
+h2{
+    margin-top: 10px;
+    /* background-color: brown; */
+    display: inline-block;
+}
+.product {
+    display: flex;
+    justify-content: space-between;
+    /* background-color: rgb(230, 230, 230); */
+}
+.products {
+    display: flex;
+    align-items: center;
+    /* background-color: white; */
+    margin-top: 0px;
+    
+    
+    
+}
+.products img{
+    width: 150px;
+    height: 150px;
+   padding-left: 70px;
+   
+}
+
+
